@@ -3,76 +3,76 @@ const travelData = {
     destinations: [
         {
             name: "Sydney, Australia",
-            imageUrl: "enter_your_image_for_sydney.jpg",
+            imageUrl: "sydneyAustralia.jpg",
             description: "A vibrant city known for its iconic landmarks like the Sydney Opera House and Sydney Harbour Bridge."
         },
         {
             name: "Melbourne, Australia",
-            imageUrl: "enter_your_image_for_melbourne.jpg",
+            imageUrl: "MelbourneAustralia.jpg",
             description: "A cultural hub famous for its art, food, and diverse neighborhoods."
         },
         {
             name: "Tokyo, Japan",
-            imageUrl: "enter_your_image_for_tokyo.jpg",
+            imageUrl: "TokyoJapan.jpg",
             description: "A bustling metropolis blending tradition and modernity, famous for its cherry blossoms and rich culture."
         },
         {
             name: "Kyoto, Japan",
-            imageUrl: "enter_your_image_for_kyoto.jpg",
+            imageUrl: "KyotoJapan.jpg",
             description: "Known for its historic temples, gardens, and traditional tea houses."
         },
         {
             name: "Rio de Janeiro, Brazil",
-            imageUrl: "enter_your_image_for_rio.jpg",
+            imageUrl: "Rio de JaneiroBrazil.jpg",
             description: "A lively city known for its stunning beaches, vibrant carnival celebrations, and iconic landmarks."
         },
         {
             name: "SÃ£o Paulo, Brazil",
-            imageUrl: "enter_your_image_for_sao-paulo.jpg",
+            imageUrl: "SÃ£o PauloBrazil.jpg",
             description: "The financial hub with diverse culture, arts, and a vibrant nightlife."
         },
         {
             id: 1,
             name: "Angkor Wat, Cambodia",
-            imageUrl: "enter_your_image_for_angkor-wat.jpg",
+            imageUrl: "Angkor WatCambodia.jpg",
             description: "A UNESCO World Heritage site and the largest religious monument in the world."
         },
         {
             id: 2,
             name: "Taj Mahal, India",
-            imageUrl: "enter_your_image_for_taj-mahal.jpg",
+            imageUrl: "Taj MahalIndia.jpeg",
             description: "An iconic symbol of love and a masterpiece of Mughal architecture."
         },
         {
             id: 1,
             name: "Bora Bora, French Polynesia",
-            imageUrl: "enter_your_image_for_bora-bora.jpg",
+            imageUrl: "Bora BoraFrench Polynesia.jpg",
             description: "An island known for its stunning turquoise waters and luxurious overwater bungalows."
         },
         {
             id: 2,
             name: "Copacabana Beach, Brazil",
-            imageUrl: "enter_your_image_for_copacabana.jpg",
+            imageUrl: "Copacabana BeachBrazil.jpg",
             description: "A famous beach in Rio de Janeiro, Brazil, with a vibrant atmosphere and scenic views."
         },
         {
             name: "Sydney, Australia",
-            imageUrl: "https://via.placeholder.com/150",
+            imageUrl: "sydneyAustralia.jpg",
             description: "Una ciudad vibrante conocida por sus íconos como la Ópera de Sídney y el Puente de la Bahía."
         },
         {
             name: "Tokyo, Japan",
-            imageUrl: "https://via.placeholder.com/150",
+            imageUrl: "TokyoJapan.jpg",
             description: "Una metrópolis que mezcla tradición y modernidad, famosa por sus cerezos en flor."
         },
         {
             name: "Kyoto, Japan",
-            imageUrl: "https://via.placeholder.com/150",
+            imageUrl: "KyotoJapan.jpg",
             description: "Famoso por sus templos históricos, jardines y casas de té tradicionales."
         },
         {
             name: "Bora Bora, French Polynesia",
-            imageUrl: "https://via.placeholder.com/150",
+            imageUrl: "Bora BoraFrench Polynesia.jpg",
             description: "Una isla conocida por sus aguas turquesas y bungalows de lujo sobre el agua."
         }
     ]
